@@ -1,0 +1,38 @@
+nav{background-color: #2C3E50;}
+footer .lower-sec {background-color: #1A252F}
+footer .upper-sec {background-color: #2C3E50;}
+
+.icons i{
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.home{background-color: #1ABC9C;
+min-height: 100vh;}
+
+.line{width: 80px;
+height: .25rem;
+background-color: white;}
+
+.about{background-color: #1ABC9C;
+min-height: 100vh;}
+
+.about-portfolio{min-height: 100vh;}
+
+.mainC{color: #2C3E50;}
+.mainCbg{background-color: #2C3E50;}
+
+.contact{min-height: 100vh;}
+
+.btnC{background-color: #1ABC9C;
+border: none;
+color: white;
+border-radius: .3125rem;
+padding: .625rem;}
+
+nav .nav-link:focus{background-color: #1ABC9C;
+    border-radius: .3125rem;
+padding: .625rem;}
