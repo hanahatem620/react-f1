@@ -17,6 +17,7 @@ function App() {
 
   let routes = createBrowserRouter([
     {path:"", element:<Layout></Layout>, children:[
+      {index:true, element:<Home></Home>},
       {path:"Home", element:<Home></Home>},
       {path:"About", element: <About></About>},
       {path:"Portfolio", element: <Portfolio></Portfolio>},
